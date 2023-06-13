@@ -2,8 +2,7 @@
 
 This repository contains the implementation of a machine learning (ML) pipeline in a production environment using Google Cloud Platform (GCP). The pipeline leverages GCP's services and tools to automate retraining and deployment of new ML models.
 
-## Jupyter Notebook
-
+To explore the case of study where a company deploy more than 20 models and has more than 100.000 users monthly, please refer [Jupyter Notebook](notebooks/MLOps_Continuous_delivery_and_automation_pipelines_in_machine_learning.ipynb)to the in the `notebooks` directory
 To explore the implementation details and code, refer to the [Jupyter Notebook](notebooks/Vertex_AI_custom_train_pipeline.ipynb) in the `notebooks` directory. The notebook provides step-by-step instructions and code examples for setting up the ML pipeline on GCP.
 
 ## Continuous Integration and Continuous Deployment (CI/CD) with GCP
