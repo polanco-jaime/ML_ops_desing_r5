@@ -30,4 +30,9 @@ By leveraging GCP's capabilities for ML operations (MLOps), our automated ML pip
 
 By implementing an ML pipeline with CI/CD practices on GCP, we have enhanced the efficiency, reliability, and adaptability of our ML system in a production environment.
 
-> Note: This text is adapted for a Markdown (.md) file format. Markdown is a lightweight markup language commonly used for documentation and formatting text in various platforms, including GitHub.
+> Source: 
+>- [Google Cloud Architecture for MLOps](https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build?hl=es-419)
+>- [Guidelines for Developing High-Quality ML Solutions](https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-solutions)
+>- [MLOps Continuous Delivery and Automation Pipelines in Machine Learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+>- [ML Ops Best Practices on Google Cloud (Cloud Next '19)](https://www.youtube.com/watch?v=20h_RTHEtZI&ab_channel=GoogleWorkspace)
+
